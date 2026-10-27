@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# dumps created next to the script if it is placed inside a game folder
+offsets/
